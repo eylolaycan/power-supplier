@@ -10,11 +10,11 @@ A basic regulated power supply PCB designed for powering breadboard circuits wit
 - Designed for direct insertion onto breadboard power rails
 
 ## Preview
-![Schematics Preview 3D](/schematics.png)
+![Schematics Preview 3D](schematics.png)
 
-![PCB Preview](/pcb.png)
+![PCB Preview](pcb.png)
 
-![PCB Preview 3D](/Project_3D.jpg)
+![PCB Preview 3D](Project_3D.jpg)
 
 ## Status
 - [x] Schematic complete
